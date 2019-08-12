@@ -1,8 +1,5 @@
 npm install umi --save-dev
 npm install umi-plugin-react --save-dev
 npm install --save antd
-<<<<<<< Updated upstream
 婷婷是美女
-=======
 npm instakk --save umi
->>>>>>> Stashed changes
